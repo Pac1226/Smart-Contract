@@ -1,26 +1,22 @@
-# Algorithmic Trading Bots | Machine Learning Models
+# Challenge 20 | Smart Contracts | Solidity
 
-This is a machine learning template that can be adapted to build unique algorithmic trading bots. 
-
-It aggregates data from any three sources and prepares the data using "Train, Test, Split", "RandomOversampler", and "StandardScaler." 
-
-Finally it runs the cleaned data through three (3) machine learning models:
-
-* Logistic Regression
-* Random Forest Classification
-* Support Vector Machine (SVM)
-
+The purpose of this assignment is to build a smart contract for a fictious fintech startup. This smart contract automates the creation of joint savings accounts for two user addresses. It uses Ether management functions to implement the financial institution’s requirements for a joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
 
 ---
 
 ## Technologies
 
-```python
-The program uses Pandas, NumPy, Scikit-learn, pathlib 
+```
+This program uses Solidity and Ethereum Virtual Machine.
 ```
 
 ---
 
-## Usage
+## Screenshots
 
-The current template uses cumulative returns data pulled from the Alpaca API for SPY, QQQ, and ARKK. This data is used as a placeholder. Users are meant to feed desired data through the model to build a customized trading bot for crypto, equities, or commodities.
+![Deposit #1](/images/deposit_1)
+![Deposit #2](/images/deposit_2)
+![Deposit #3](/images/deposit_3)
+![Set Accounts](/images/setAccounts)
+![Withdraw #1](/images/withdraw_1)
+![Withdraw #2](/images/withdraw_2)
