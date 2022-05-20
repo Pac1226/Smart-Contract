@@ -14,9 +14,9 @@ This program uses Solidity and Ethereum Virtual Machine.
 
 ## Screenshots
 
-![Deposit #1](/images/deposit_1)
-![Deposit #2](/images/deposit_2)
-![Deposit #3](/images/deposit_3)
-![Set Accounts](/images/setAccounts)
-![Withdraw #1](/images/withdraw_1)
-![Withdraw #2](/images/withdraw_2)
+![Deposit #1](images/deposit_1)
+![Deposit #2](images/deposit_2)
+![Deposit #3](images/deposit_3)
+![Set Accounts](images/setAccounts)
+![Withdraw #1](images/withdraw_1)
+![Withdraw #2](images/withdraw_2)
